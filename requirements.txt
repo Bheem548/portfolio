@@ -33,7 +33,7 @@ Pillow==7.1.1
 pluggy==0.13.1
 pre-commit==2.2.0
 prettytable==0.7.2
-py==1.8.1
+py==1.10.0
 pycodestyle==2.5.0
 pyjokes==0.6.0
 PyJWT==1.7.1
